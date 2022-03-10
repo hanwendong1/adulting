@@ -5,15 +5,10 @@ layout: default
 
 # Bootstrap Workshop Template!
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="college.jpeg" alt="college student" caption="Welcome to college!" width="75%" %}
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+*Workshop description: Now that you are in college, you might need to ask yourself the following questions: How do I budget to pay the bills? What should I cook to eat smart and save money? How do I work on my resume writing and interviewing skills? In this workshop, we will use the lateral reading technique to examine some sample information sources on money management, cooking, job hunting, and other essential life skills topics.*
 
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
 
 *See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
 
