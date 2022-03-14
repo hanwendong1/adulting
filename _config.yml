@@ -15,7 +15,7 @@ title: Adulting 101
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
 # some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: bi bi-people
+title-icon: briefcase
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
 description: "Adulting 101: What you need to know to be a responsible grown-up (especially in college!)"
