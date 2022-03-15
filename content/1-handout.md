@@ -39,12 +39,12 @@ nav: Handout
 * Does the publisher take responsibility for the content?
 * Is the item published as a peer-reviewed/refereed journal, scholarly journal, magazine, or news source?
 * If a Website,
-&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; * Where is it published? What is the domain?  Learn more about Internet Domains.   
-  * .com = a commercial site
-  * .gov = a U.S. government site
-  * .org = nonprofit organization site
-  * .edu = an educational site
- * Will it be there tomorrow?  Is it a stable site that will continue to exist?
+  * Where is it published? What is the domain?  Learn more about Internet Domains.   
+    * .com = a commercial site
+    * .gov = a U.S. government site
+    * .org = nonprofit organization site
+    * .edu = an educational site
+  * Will it be there tomorrow?  Is it a stable site that will continue to exist?
 
 #### Why? Purpose & Objectivity
 * Why does the source exist?
