@@ -1,5 +1,5 @@
 ---
-title: Slides
+title: Class Slides
 nav: Slides
 ---
 
