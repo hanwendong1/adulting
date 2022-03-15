@@ -52,3 +52,5 @@ nav: Handout
 * Is it selling? Promoting? Ranting? Sponsoring?
 * Does the source represent the agenda of a political, religious, or social group or institution?
 * If there is advertising, is it clearly differentiated from the informational content?
+
+{% include alert.html text="Click [this link](https://docs.google.com/document/d/e/2PACX-1vSU9Wp2ajsFW9kGV2BLV7IPzEhWSAhX7WCFmmi2Ha1MJQHG0guLE265kgshOQ-qKg/pub) to get a printable version of the handout." align="center" color="warning" %}
