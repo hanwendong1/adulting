@@ -3,17 +3,16 @@ title: Class Handout
 nav: Handout
 ---
 
-The 5Ws Method of Evaluating Sources
-Who? Authority
+## The 5Ws Method of Evaluating Sources
+
+#### Who? Authority
 * Who is the author (individual, organization)?
 * What are the author's qualifications (occupation, years of experience, position, education, other)?
 * What is the author's institutional affiliation, if any? (educational institution, nonprofit organization, company, other)?
 * Is contact information given so that you can contact the author for clarification or more information?
 * Is there an About Us section?
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-What? Accuracy
+
+#### What? Accuracy
 •	What is the purpose of the content?
 •	Does the content appear to be well-researched?
 •	Are there editors and fact checkers?  
@@ -21,10 +20,8 @@ What? Accuracy
 •	Are the facts documented so that you can verify the content in another source?
 •	Does the item include grammatical, spelling, or typographical errors?
 •	If Websites are suggested or linked to, are they quality sites?
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-When? Currency
+
+#### When? Currency
 * When was the item written or published?
 * Is it important that the info you need  be right up to date?
 * If a Website,
@@ -32,11 +29,8 @@ When? Currency
 ⋅⋅*	When was the content last updated?
 ⋅⋅*	Is it current enough for your needs?
 ⋅⋅*	Are there any "dead" links?
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
 
-Where? Publisher
+#### Where? Publisher
 •	Where is the content from?
 •	How reputable is the publisher?
 •	Does the publisher take responsibility for the content?
@@ -48,10 +42,8 @@ o	Where is it published? What is the domain?  Learn more about Internet Domains.
 	.org = nonprofit organization site
 	.edu = an educational site
 o	Will it be there tomorrow?  Is it a stable site that will continue to exist?
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-Why? Purpose & Objectivity
+
+#### Why? Purpose & Objectivity
 •	Why does the source exist?
 •	Is there a statement of mission, purpose, target audience?
 •	Does it provide many opinions?  Is it balanced?
@@ -60,6 +52,3 @@ Why? Purpose & Objectivity
 •	Is it selling? Promoting? Ranting? Sponsoring?
 •	Does the source represent the agenda of a political, religious, or social group or institution?
 •	If there is advertising, is it clearly differentiated from the informational content?
-_____________________________________________________________________________________
-_____________________________________________________________________________________
-_____________________________________________________________________________________
