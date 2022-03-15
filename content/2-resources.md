@@ -14,7 +14,7 @@ Below is a list of web resources on various adulting-related topics.
 -	[What is a credit score?](https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-score-en-315/){:target="_blank" rel="noopener"}
 
 **Job Skills**
--	[How to Make a Resume in 2022 | Beginner's Guide](https://novoresume.com/career-blog/how-to-write-a-resume-guide){:target="_blank" rel="noopener"}
+-	[How to Make a Resume in 2022. Beginner's Guide](https://novoresume.com/career-blog/how-to-write-a-resume-guide){:target="_blank" rel="noopener"}
 -	[10 Interview Skills You Need to Get Hired (and How to Improve at Them)](https://www.inc.com/kevin-j-ryan/5g-small-business-karen-kerrigan.html){:target="_blank" rel="noopener"}
 -	[How To Write a Cover Letter (Plus Tips and Examples)](https://www.indeed.com/career-advice/resumes-cover-letters/how-to-write-a-cover-letter){:target="_blank" rel="noopener"}
 -	[What Employers Want](https://www.insidehighered.com/news/2021/04/06/aacu-survey-finds-employers-want-candidates-liberal-arts-skills-cite-preparedness){:target="_blank" rel="noopener"}
