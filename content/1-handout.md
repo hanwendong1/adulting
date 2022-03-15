@@ -25,8 +25,10 @@ nav: Handout
 * When was the item written or published?
 * Is it important that the info you need  be right up to date?
 * If a Website,
+
 &nbsp;* When was the site created?
 &nbsp;*	When was the content last updated?
+
 &nbsp; *	Is it current enough for your needs?
 &nbsp; *	Are there any "dead" links?
 
