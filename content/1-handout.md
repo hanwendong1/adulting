@@ -30,6 +30,7 @@ nav: Handout
 &nbsp;*	When was the content last updated?
 
 &nbsp; *	Is it current enough for your needs?
+
 &nbsp; *	Are there any "dead" links?
 
 #### Where? Publisher
@@ -38,7 +39,7 @@ nav: Handout
 * Does the publisher take responsibility for the content?
 * Is the item published as a peer-reviewed/refereed journal, scholarly journal, magazine, or news source?
 * If a Website,
- * Where is it published? What is the domain?  Learn more about Internet Domains.   
+&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp; * Where is it published? What is the domain?  Learn more about Internet Domains.   
   * .com = a commercial site
   * .gov = a U.S. government site
   * .org = nonprofit organization site
