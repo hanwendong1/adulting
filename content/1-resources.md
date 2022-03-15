@@ -1,37 +1,65 @@
 ---
-title: Web Resources
-nav: resources
+title: Class Handout
+nav: Handout
 ---
 
-`workshop-template-b` is a Jekyll project to create a simple workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
+The 5Ws Method of Evaluating Sources
+Who? Authority
+* Who is the author (individual, organization)?
+* What are the author's qualifications (occupation, years of experience, position, education, other)?
+* What is the author's institutional affiliation, if any? (educational institution, nonprofit organization, company, other)?
+* Is contact information given so that you can contact the author for clarification or more information?
+* Is there an About Us section?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+What? Accuracy
+•	What is the purpose of the content?
+•	Does the content appear to be well-researched?
+•	Are there editors and fact checkers?  
+•	Are there references to sources of information supporting any statements made or viewpoints held?
+•	Are the facts documented so that you can verify the content in another source?
+•	Does the item include grammatical, spelling, or typographical errors?
+•	If Websites are suggested or linked to, are they quality sites?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+When? Currency
+* When was the item written or published?
+* Is it important that the info you need  be right up to date?
+* If a Website,
+⋅⋅* When was the site created?
+⋅⋅*	When was the content last updated?
+⋅⋅*	Is it current enough for your needs?
+⋅⋅*	Are there any "dead" links?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
 
-It works best for about 5 pages of instructions, plus index, all written in Markdown. 
-The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the lessons.
-
-### Why?
-
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and GitHub Pages makes this pretty easy.
-
-It is a better [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources) since anyone can make a copy and adapt!
-
-## GitHub Pages 
-
-One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
-It provides free static web hosting from any repository.
-Gh-pages is intended to host relatively simple sites for your GitHub portfolio, project, or documentation.
-Because it is free and a valuable transferable skill, this is a great option for teaching and learning.
-
-Many organizations are using GitHub to collaboratively create and publish public workshop websites. 
-For example: 
-
-- [Programming Historian](http://programminghistorian.org/)
-- [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/)
-- this site!
-
-{% capture text %}Note:
-There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
-If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
-All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.{% endcapture %}
-{% include alert.html text=text color=secondary %}
+Where? Publisher
+•	Where is the content from?
+•	How reputable is the publisher?
+•	Does the publisher take responsibility for the content?
+•	Is the item published as a peer-reviewed/refereed journal, scholarly journal, magazine, or news source?
+•	If a Website,
+o	Where is it published? What is the domain?  Learn more about Internet Domains.   
+	.com = a commercial site
+	.gov = a U.S. government site
+	.org = nonprofit organization site
+	.edu = an educational site
+o	Will it be there tomorrow?  Is it a stable site that will continue to exist?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+Why? Purpose & Objectivity
+•	Why does the source exist?
+•	Is there a statement of mission, purpose, target audience?
+•	Does it provide many opinions?  Is it balanced?
+•	Does it contain mostly opinions or facts?
+•	Is there bias in the information and opinions presented?
+•	Is it selling? Promoting? Ranting? Sponsoring?
+•	Does the source represent the agenda of a political, religious, or social group or institution?
+•	If there is advertising, is it clearly differentiated from the informational content?
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
