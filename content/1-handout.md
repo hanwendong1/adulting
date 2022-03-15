@@ -13,42 +13,42 @@ nav: Handout
 * Is there an About Us section?
 
 #### What? Accuracy
-•	What is the purpose of the content?
-•	Does the content appear to be well-researched?
-•	Are there editors and fact checkers?  
-•	Are there references to sources of information supporting any statements made or viewpoints held?
-•	Are the facts documented so that you can verify the content in another source?
-•	Does the item include grammatical, spelling, or typographical errors?
-•	If Websites are suggested or linked to, are they quality sites?
+* What is the purpose of the content?
+* Does the content appear to be well-researched?
+* Are there editors and fact checkers?  
+* Are there references to sources of information supporting any statements made or viewpoints held?
+* Are the facts documented so that you can verify the content in another source?
+* Does the item include grammatical, spelling, or typographical errors?
+* If Websites are suggested or linked to, are they quality sites?
 
 #### When? Currency
 * When was the item written or published?
 * Is it important that the info you need  be right up to date?
 * If a Website,
-⋅⋅* When was the site created?
-⋅⋅*	When was the content last updated?
-⋅⋅*	Is it current enough for your needs?
-⋅⋅*	Are there any "dead" links?
+ * When was the site created?
+ *	When was the content last updated?
+ *	Is it current enough for your needs?
+ *	Are there any "dead" links?
 
 #### Where? Publisher
-•	Where is the content from?
-•	How reputable is the publisher?
-•	Does the publisher take responsibility for the content?
-•	Is the item published as a peer-reviewed/refereed journal, scholarly journal, magazine, or news source?
-•	If a Website,
-o	Where is it published? What is the domain?  Learn more about Internet Domains.   
-	.com = a commercial site
-	.gov = a U.S. government site
-	.org = nonprofit organization site
-	.edu = an educational site
-o	Will it be there tomorrow?  Is it a stable site that will continue to exist?
+* Where is the content from?
+* How reputable is the publisher?
+* Does the publisher take responsibility for the content?
+* Is the item published as a peer-reviewed/refereed journal, scholarly journal, magazine, or news source?
+* If a Website,
+ * Where is it published? What is the domain?  Learn more about Internet Domains.   
+  * .com = a commercial site
+  * .gov = a U.S. government site
+  * .org = nonprofit organization site
+  * .edu = an educational site
+ * Will it be there tomorrow?  Is it a stable site that will continue to exist?
 
 #### Why? Purpose & Objectivity
-•	Why does the source exist?
-•	Is there a statement of mission, purpose, target audience?
-•	Does it provide many opinions?  Is it balanced?
-•	Does it contain mostly opinions or facts?
-•	Is there bias in the information and opinions presented?
-•	Is it selling? Promoting? Ranting? Sponsoring?
-•	Does the source represent the agenda of a political, religious, or social group or institution?
-•	If there is advertising, is it clearly differentiated from the informational content?
+* Why does the source exist?
+* Is there a statement of mission, purpose, target audience?
+* Does it provide many opinions?  Is it balanced?
+* Does it contain mostly opinions or facts?
+* Is there bias in the information and opinions presented?
+* Is it selling? Promoting? Ranting? Sponsoring?
+* Does the source represent the agenda of a political, religious, or social group or institution?
+* If there is advertising, is it clearly differentiated from the informational content?
